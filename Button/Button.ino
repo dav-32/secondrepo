@@ -1,11 +1,11 @@
 /*
   Button
 
-  Turns on and off a light emitting diode(LED) connected to digital pin 13,
+  Turns on and off a light emitting diode(LED) connected to digital pin 3,
   when pressing a pushbutton attached to pin 2.
 
   The circuit:
-  - LED attached from pin 13 to ground
+  - LED attached from pin 3 to ground
   - pushbutton attached to pin 2 from +5V
   - 10K resistor attached to pin 2 from ground
 
@@ -16,6 +16,8 @@
   by DojoDave <http://www.0j0.org>
   modified 30 Aug 2011
   by Tom Igoe
+  modified 31 Jan 2023
+  by Damhan Mac Fadden
 
   This example code is in the public domain.
 
